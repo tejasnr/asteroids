@@ -1,2 +1,3 @@
 # asteroids
-This 
+
+This is an example game of asteroids.
